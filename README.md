@@ -61,3 +61,8 @@ This project explores the Netflix Movies and TV Shows dataset to understand the 
 3. Run the cells to explore the data and generate visualizations
 
 ---
+
+## 🙋‍♀️ Author
+
+Aditi
+Connect with me on LinkedIn('https://www.linkedin.com/in/aditi-patil-52992115b/')
